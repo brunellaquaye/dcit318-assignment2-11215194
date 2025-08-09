@@ -1,0 +1,15 @@
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/bin/Debug/net9.0/csharp-oop
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/bin/Debug/net9.0/csharp-oop.deps.json
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/bin/Debug/net9.0/csharp-oop.runtimeconfig.json
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/bin/Debug/net9.0/csharp-oop.dll
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/bin/Debug/net9.0/csharp-oop.pdb
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/obj/Debug/net9.0/csharp-oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/obj/Debug/net9.0/csharp-oop.AssemblyInfoInputs.cache
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/obj/Debug/net9.0/csharp-oop.AssemblyInfo.cs
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/obj/Debug/net9.0/csharp-oop.csproj.CoreCompileInputs.cache
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/obj/Debug/net9.0/csharp-oop.sourcelink.json
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/obj/Debug/net9.0/csharp-oop.dll
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/obj/Debug/net9.0/refint/csharp-oop.dll
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/obj/Debug/net9.0/csharp-oop.pdb
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/obj/Debug/net9.0/csharp-oop.genruntimeconfig.cache
+/Users/brunellaquaye/Documents/dcit318-assignment2-11215194/csharp-oop/obj/Debug/net9.0/ref/csharp-oop.dll
